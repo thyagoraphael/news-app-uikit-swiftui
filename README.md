@@ -20,6 +20,14 @@ Não foque todos seus esforços no começo em aprender tudo de UIKit ou SwiftUI,
 iPhone 11 Pro Max, foto da esquerda (UIKit com Viewcode)
 iPhone 12 Pro Max, foto da direita (SwiftUI)
 
+## 🚀 Habilidades que forão desenvolvidas nesse app
+
+- Swift
+- SwiftUI
+- UIKit
+- MVVM
+- Integração com API externa
+
 ## Link dos videos
 
 - [Video em UIKit](https://www.youtube.com/watch?v=Wu3er4AMG8U&list=WL&index=2)
